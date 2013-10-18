@@ -2,8 +2,8 @@ PID Cat
 =======
 
 An update to Jake Wharton's PID-filtering logcat script, which is based off
-Jeff Sharkey's excellent [logcat color script][1], with two changes:
-1. No color-coding (friendly for redirecting to files and viewing in a plan text editor) and
+Jeff Sharkey's excellent [logcat color script][1], with two changes:  
+1. No color-coding (friendly for redirecting to files and viewing in a plain text editor) and  
 2. Add timestamps
 
 During application development you often want to only display log messages
